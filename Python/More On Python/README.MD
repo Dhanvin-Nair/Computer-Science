@@ -7,3 +7,10 @@
 ## Stay Safe
 - To stay safe, after you download my code, edit the names of a few variables to prevent suspicion.
 - If you don't understand the code I've written you can ask me to explain ma'am or else don't copy the code.
+
+
+## How to download all the code.
+- Go to The main [computer science repository](https://github.com/Dhanvin-Nair/Computer-Science)
+- Click on the green code button.
+- Find download zip and click it
+- Extract the zip.
